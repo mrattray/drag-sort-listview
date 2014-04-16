@@ -1,6 +1,11 @@
 DragSortListView
 ================
 
+This is a copy of DragSortListView by bauerca that has been ported to Xamarin MonoDroid C#.
+
+Original Readme
+---------------
+
 # NOTICE: No longer maintained.
 
 I do not have much time to devote to this project so I am
